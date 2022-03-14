@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>Facebook</name>
+  <serviceProvider>Facebook</serviceProvider>
+  <consumerKey>888816147975390</consumerKey>
+  <consumerSecret>uR4Zjao/W008BT0fvCqjRIZ1un/mYD7S6v5BsgC/XGcfnEXTVfSgMPzIj074wv1wRU5yFFQ4RnSpU67ZZQv2AInkZ4KujIp3a/xCVXmVw5KZBRvhT4U5igspU8bmKPzIuaYqNC37dxo3J+HuU9Uvy4QprQaFRekwQKuw7JDzsA0=:uI8rxEy5sMAfKwFQ:3vkKZY1feBtVCS3LsbqW1wvGMj6fPTHALsTeKyyI5xy4YOwU27rzAnEe3flcpE8=</consumerSecret>
+  <callbackURL>http://localhost:50080/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="2"/>
+  <modifiedBy>admin</modifiedBy>
+  <revisionNumber>27da9a8e100a78814730d74e2840a40f17bbc2f4</revisionNumber>
+  <commitMessage/>
+  <lastModified id="3">2022-03-14 12:20:14.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
