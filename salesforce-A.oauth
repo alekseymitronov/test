@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<oauthApplication id="1">
+  <name>salesforce-A</name>
+  <serviceProvider>Salesforce sandbox</serviceProvider>
+  <consumerKey>3MVG9oZtFCVWuSwOvwwAVjUooDbry9oSO.h5QwGivIfTOSmDB1u5qPc2VKUOOIkO2CzSYLp9rz8aAhAHUdLCN</consumerKey>
+  <oauthUser id="2">
+    <id>360451604639200</id>
+    <name>aleksey.golovko@kofax.com.rndtestbox</name>
+    <oauthApplication reference="1"/>
+    <accessToken>cVRmV1Bm/q7JlEPCMe2zVUHTqq/oSQ/V6q5bmVgcO6wk2AGgyK35s/DwcYxFm+cL4eio3QfyAA//wPngBWJc9+EZwnrAsqYHPj6bAJOx7rk1IL5eheqD/6zfXF2q6LiYJv2s6cCtRT0d1hCRE5D5t4e6jMvgfZ2ekVTU+m9cGGI=:7e23HrHeuo/aYnOe:qV4BJs0o3DGCF+zNg4g0KPt0rmDRHLqWu7Ao6e3/b8ZPGWVD2FcVKi7yx5SRbybJDp5mIX3DWB05r3IQ0SXKYI3sI2j5aygkc+p4xNZGiVLWACFgSft3SKUr9EuhlBbzzNXnjbu8aWggMUnkjaB0n4P6JYJuy1an4bZtCmGi34U=</accessToken>
+    <accessTokenSecret/>
+    <refreshToken>GcKlBalOUeFJJhPg50mo5+g+gFANaD//pXIqIbbwtiAZuufxMQJor+gJFzM21WevvbrpbNLT41GZUDWhQ6sJK5MIPfvMFin4OGzW+MNvTqUq9WahAvwnPJoqCb25i0et+DGqfT1k9JrXNjoS7E3SlyuCwy7tR6kqxxNdiqoH7JM=:bcdUZEDno4gMvcKh:keAyjE4ot4SkKCzr+8/I+x5BF1e46kpgxL3m9dfJJK9gY2SAwR7+mmCI4UpMDlMqxcRs2y+IOcyMCFv1G/qhJzQcWCRhavwo5A7VjpkxklbzJgAqtsEKKBU412R0nfDqnz22uItxCw==</refreshToken>
+  </oauthUser>
+  <consumerSecret>ekgLFTWLeiLbSMEMQGubv7dPubm+LpFwIpFmn3uKpBdaaU7KQP6i78Qykrb3GgTTwZoeHUjnwHbJ71+Nf4GAc2zK/u4YqVsOJl6MEY6QqWw9HCDTsE7c2rqO0qdcWhcfzsFwe1kQUPGHiHDofrbC6l7OVp2x9ojFSzxVlY3DufY=:FJjYVkj0B/1qBXC9:T8XSuq5vlXNkaRGvjae8BiFjoPbilUPOkY1o7WK8nvYgQNxaB7yFYB+68NwviX5saQbLTyxDAf8PNfVrWSJYShdmybD9KAU2NVILQcoxiWU=</consumerSecret>
+  <callbackURL>http://localhost:50080/OAuthCallback</callbackURL>
+  <scope/>
+  <project id="3"/>
+  <modifiedBy>Aleksey Mitronov</modifiedBy>
+  <revisionNumber>796be071afb37b9d3a45664d6cb465eed7dee734</revisionNumber>
+  <commitMessage>edit
+</commitMessage>
+  <lastModified id="4">2022-03-14 12:20:14.0 UTC</lastModified>
+  <serializationVersion>1</serializationVersion>
+</oauthApplication>
